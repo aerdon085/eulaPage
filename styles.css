@@ -1,0 +1,31 @@
+.linkText {
+  text-transform: capitalize;
+  color: aliceblue;
+}
+/* p, */
+a {
+  color: darkturquoise;
+  background-color: midnightblue;
+}
+h3 {
+  color: darkblue;
+  background-color: maroon;
+}
+a {
+  font-size: 1.5rem;
+}
+.link {
+  text-transform: uppercase;
+}
+.specialPara {
+  color: blanchedalmond;
+  background-color: black;
+}
+#singleMostSpecialPara {
+  text-transform: capitalize;
+  background-color: burlywood;
+}
+span {
+  text-transform: uppercase;
+  color: cornsilk;
+}
